@@ -10,6 +10,5 @@ public class Pizza
     [Required]
     public string Ingredients { get; set; }
     public decimal Price { get; set; }
-    //kommentar bara för att se om det går att få cicd att fungera via github actions
 
 }
